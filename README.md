@@ -1,5 +1,5 @@
-# Apprtc-swift
-Apprtc code written in Swift 2 with Video Mute, Audio Mute, Rotation support. Refer to [my blog](https://mobilitysolutionsexpert.wordpress.com/) for more details
+# Apprtc-swift (for WebRTC)
+Apprtc code written in Swift 2 with Video Mute, Audio Mute, Rotation support. Send to email for more details
 
 ## Instruction
 1. Either run app in 2 devices or run app in one device and open http://apprtc.appspot.com/ 
@@ -22,9 +22,7 @@ Apprtc code written in Swift 2 with Video Mute, Audio Mute, Rotation support. Re
 2) Swift 3.0 Upgrade
 
 ##To Say Hi
-[Me](https://in.linkedin.com/in/dhilipr)
-
-[My blog](https://mobilitysolutionsexpert.wordpress.com/)
+[Me](https://in.linkedin.com/in/ilous12)
 
 
 
